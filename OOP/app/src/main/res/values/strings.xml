@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OOP</string>
+    <string name="date">Дата Рождения:  %1$s</string>
+</resources>
