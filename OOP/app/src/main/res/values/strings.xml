@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Картотека интерпола</string>
+    <string name="date">Дата Рождения:  %1$s</string>
+    <string name="country">Страна:  %1$s</string>
+    <string name="crime">Преступление:  %1$s</string>
+    <string name="signs">Приметы:  %1$s</string>
+    <string-array name="country_array">
+        <item>Выберите страну</item>
+        <item>Россия</item>
+        <item>США</item>
+        <item>Франция</item>
+        <!-- остальные страны -->
+    </string-array>
+
+</resources>
